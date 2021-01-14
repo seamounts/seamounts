@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on tencent
 
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=paradeto&theme=radical&show_icons=true)
+![seamounts's github stats](https://github-readme-stats.vercel.app/api?username=seamounts&theme=radical&show_icons=true)
