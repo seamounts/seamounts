@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on tencent
-
 ![seamounts's github stats](https://github-readme-stats.vercel.app/api?username=seamounts&theme=radical&show_icons=true)
